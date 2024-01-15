@@ -1,65 +1,100 @@
-<mxfile host="app.diagrams.net" modified="2024-01-15T10:27:45.399Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="8QtxpdLEpQ7CEXORPUdN" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-15T11:00:15.323Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="HWTCgogAT31r0Nnl9-pP" version="22.1.18" type="github">
   <diagram name="Pagina-1" id="YYO5B_iL8QXavFWU6pVA">
-    <mxGraphModel dx="1032" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="996" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="m0aF3xc4tJ4CbTz1nR86-1" value="&lt;h1&gt;Cineco&#39;s website&lt;br&gt;&lt;/h1&gt;&lt;p&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Current situation&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;The website and box office sales have there own database allowing for overbooked screenings&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="30" y="30" width="290" height="130" as="geometry" />
+        <mxCell id="m0aF3xc4tJ4CbTz1nR86-1" value="&lt;h1&gt;Cineco&#39;s website&lt;br&gt;&lt;/h1&gt;&lt;p&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;User Journey Current Situation&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;The website has a data base to store the booked tickets, but is not allowing annonimes tickets. Therefore the tickets from the box office are not accounted for&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="30" width="330" height="130" as="geometry" />
         </mxCell>
         <mxCell id="m0aF3xc4tJ4CbTz1nR86-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m0aF3xc4tJ4CbTz1nR86-2" target="m0aF3xc4tJ4CbTz1nR86-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="m0aF3xc4tJ4CbTz1nR86-2" value="Movie selection" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="570" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="m0aF3xc4tJ4CbTz1nR86-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m0aF3xc4tJ4CbTz1nR86-3" target="m0aF3xc4tJ4CbTz1nR86-5">
+        <mxCell id="m0aF3xc4tJ4CbTz1nR86-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="m0aF3xc4tJ4CbTz1nR86-23" target="m0aF3xc4tJ4CbTz1nR86-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m0aF3xc4tJ4CbTz1nR86-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m0aF3xc4tJ4CbTz1nR86-3" target="m0aF3xc4tJ4CbTz1nR86-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="m0aF3xc4tJ4CbTz1nR86-3" value="&lt;div&gt;Screening selection&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="730" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="m0aF3xc4tJ4CbTz1nR86-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m0aF3xc4tJ4CbTz1nR86-5" target="m0aF3xc4tJ4CbTz1nR86-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="m0aF3xc4tJ4CbTz1nR86-5" value="&lt;div&gt;Snack selection&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="1050" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="m0aF3xc4tJ4CbTz1nR86-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m0aF3xc4tJ4CbTz1nR86-7" target="m0aF3xc4tJ4CbTz1nR86-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="m0aF3xc4tJ4CbTz1nR86-7" value="Banking app" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="1210" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="m0aF3xc4tJ4CbTz1nR86-9" value="Confirmation page" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="1370" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="m0aF3xc4tJ4CbTz1nR86-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m0aF3xc4tJ4CbTz1nR86-14" target="m0aF3xc4tJ4CbTz1nR86-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="m0aF3xc4tJ4CbTz1nR86-14" value="Website" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="410" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="m0aF3xc4tJ4CbTz1nR86-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m0aF3xc4tJ4CbTz1nR86-16" target="m0aF3xc4tJ4CbTz1nR86-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="m0aF3xc4tJ4CbTz1nR86-16" value="Box office" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="410" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="m0aF3xc4tJ4CbTz1nR86-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m0aF3xc4tJ4CbTz1nR86-17" target="m0aF3xc4tJ4CbTz1nR86-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="m0aF3xc4tJ4CbTz1nR86-17" value="Select movie &amp;amp; Screening" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="570" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="m0aF3xc4tJ4CbTz1nR86-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m0aF3xc4tJ4CbTz1nR86-19" target="m0aF3xc4tJ4CbTz1nR86-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="m0aF3xc4tJ4CbTz1nR86-19" value="Pay" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="360" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="730" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="m0aF3xc4tJ4CbTz1nR86-21" value="Get ticket" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="520" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="890" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m0aF3xc4tJ4CbTz1nR86-23" value="Pick a seat" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="890" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m0aF3xc4tJ4CbTz1nR86-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m0aF3xc4tJ4CbTz1nR86-25" target="m0aF3xc4tJ4CbTz1nR86-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m0aF3xc4tJ4CbTz1nR86-25" value="Buying tickets" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m0aF3xc4tJ4CbTz1nR86-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="m0aF3xc4tJ4CbTz1nR86-26" target="m0aF3xc4tJ4CbTz1nR86-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m0aF3xc4tJ4CbTz1nR86-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m0aF3xc4tJ4CbTz1nR86-26" target="m0aF3xc4tJ4CbTz1nR86-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m0aF3xc4tJ4CbTz1nR86-26" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="340" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="m0aF3xc4tJ4CbTz1nR86-30" value="Fisical" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="450" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m0aF3xc4tJ4CbTz1nR86-31" value="Online" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="290" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
