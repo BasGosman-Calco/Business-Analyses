@@ -1,9 +1,66 @@
-<mxfile host="app.diagrams.net" modified="2024-02-02T09:47:51.230Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0" version="23.1.0" etag="kihmNZjlr9jnDHL7b4J0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-02T09:53:02.485Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="HmDG2IVtfth-s6DTZyqB" version="23.1.0" type="github">
   <diagram name="Pagina-1" id="VGSwIt89asSn_0usy4o5">
-    <mxGraphModel>
+    <mxGraphModel dx="1037" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="465vxmNAdc2qr35W2w0H-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="465vxmNAdc2qr35W2w0H-4" target="465vxmNAdc2qr35W2w0H-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="465vxmNAdc2qr35W2w0H-4" value="Enter the Cineco Cinema" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="465vxmNAdc2qr35W2w0H-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="465vxmNAdc2qr35W2w0H-6" target="465vxmNAdc2qr35W2w0H-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="465vxmNAdc2qr35W2w0H-6" value="Go to the Box office counter" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="140" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="465vxmNAdc2qr35W2w0H-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="465vxmNAdc2qr35W2w0H-8" target="465vxmNAdc2qr35W2w0H-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="465vxmNAdc2qr35W2w0H-8" value="Select a film" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="140" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="465vxmNAdc2qr35W2w0H-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="465vxmNAdc2qr35W2w0H-10" target="465vxmNAdc2qr35W2w0H-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="465vxmNAdc2qr35W2w0H-10" value="Select a screening" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="140" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="465vxmNAdc2qr35W2w0H-11" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="130" as="sourcePoint" />
+            <mxPoint x="960" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="465vxmNAdc2qr35W2w0H-12" value="&lt;font size=&quot;1&quot;&gt;&lt;b&gt;Cineco Cinema Box office&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="145" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="465vxmNAdc2qr35W2w0H-13" value="&lt;font size=&quot;1&quot;&gt;&lt;b&gt;Cineco Cinema lobby&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="85" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="465vxmNAdc2qr35W2w0H-14" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="190" as="sourcePoint" />
+            <mxPoint x="960" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="465vxmNAdc2qr35W2w0H-15" value="&lt;font size=&quot;1&quot;&gt;&lt;b&gt;Outside&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="205" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="465vxmNAdc2qr35W2w0H-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="465vxmNAdc2qr35W2w0H-17" target="465vxmNAdc2qr35W2w0H-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="465vxmNAdc2qr35W2w0H-17" value="Pay for the screening" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="140" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="465vxmNAdc2qr35W2w0H-18" value="Continue to lobby" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="80" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="465vxmNAdc2qr35W2w0H-19" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Use case 4&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="120" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
