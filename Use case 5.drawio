@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-02T10:33:01.982Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="TfpGXQHZVo-mqedVWOI2" version="23.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-02T10:37:53.337Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="P-aXYGOfjP3UwAHWj2cd" version="23.1.0" type="github">
   <diagram name="Pagina-1" id="Y6yQT46hAEPwQic3pjKh">
-    <mxGraphModel dx="1037" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1037" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -40,7 +40,7 @@
         <mxCell id="6FREu-mGXu_wDnhQattR-11" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="40" y="130" as="sourcePoint" />
-            <mxPoint x="1120" y="130" as="targetPoint" />
+            <mxPoint x="1440" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6FREu-mGXu_wDnhQattR-12" value="&lt;font size=&quot;1&quot;&gt;&lt;b&gt;Seats reservation system&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -52,7 +52,7 @@
         <mxCell id="6FREu-mGXu_wDnhQattR-14" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="40" y="190" as="sourcePoint" />
-            <mxPoint x="1120" y="190" as="targetPoint" />
+            <mxPoint x="1440" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6FREu-mGXu_wDnhQattR-15" value="&lt;font size=&quot;1&quot;&gt;&lt;b&gt;Box office&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -127,6 +127,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="6FREu-mGXu_wDnhQattR-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6FREu-mGXu_wDnhQattR-36" target="6FREu-mGXu_wDnhQattR-38">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1280" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="6FREu-mGXu_wDnhQattR-36" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1260" y="140" width="40" height="40" as="geometry" />
         </mxCell>
@@ -135,9 +142,6 @@
         </mxCell>
         <mxCell id="6FREu-mGXu_wDnhQattR-38" value="Allow the visitor to pay with cash or card" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1320" y="200" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="6FREu-mGXu_wDnhQattR-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6FREu-mGXu_wDnhQattR-36" target="6FREu-mGXu_wDnhQattR-36">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
